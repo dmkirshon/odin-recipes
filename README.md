@@ -1,4 +1,4 @@
-BLUF: This project is a selection of food recipes in a website format built using HTML
+BLUF: This project is a selection of DIY recipes in a website format built using HTML.
 
 Skills:
 1) HTML
