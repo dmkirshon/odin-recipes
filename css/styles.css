@@ -1,0 +1,35 @@
+* {
+	text-align: center;
+}
+
+h1{
+	font-size: 36px;
+	font-family: Verdana, "Times New Roman", Arial;
+	color: Orange;
+	background-color: blueviolet;
+	font-weight: lighter;
+}
+.recipe-list {
+	background-color: blueviolet;
+	font-size: 26px;
+}
+li {
+	background-color: lightpink;
+	list-style: none;
+}
+
+ul .list-litter-tongs{
+	background-color: lightskyblue;
+}
+
+a{
+	text-decoration: none;
+	font-size: 26px;
+	background-color: turquoise;
+}
+
+img {
+	background-color: blue;
+	height: auto;
+	width:  500px;
+}
